@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "12F99D32-7604-488A-986A-B4252B549E2F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "066AB693-2B15-4D43-A122-6B789FB90253"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BC Reflect/BibleQuoteViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "BibleQuoteViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "066AB693-2B15-4D43-A122-6B789FB90253 - 7e415bffb473dc7d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BC_Reflect.BibleQuoteViewController.citationArray.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "BC Reflect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jessica/Desktop/BC%20Reflect/BC%20Reflect/BibleQuoteViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "066AB693-2B15-4D43-A122-6B789FB90253 - 28a0f29407033447"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BC_Reflect.BibleQuoteViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; BC_Reflect.BibleQuoteViewController"
+                  moduleName = "BC Reflect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jessica/Desktop/BC%20Reflect/BC%20Reflect/BibleQuoteViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "2222">
+               </Location>
+               <Location
+                  uuid = "066AB693-2B15-4D43-A122-6B789FB90253 - 333b2c618de2e928"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BC_Reflect.BibleQuoteViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;BC_Reflect.BibleQuoteViewController&gt;"
+                  moduleName = "BC Reflect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jessica/Desktop/BC%20Reflect/BC%20Reflect/BibleQuoteViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "2148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

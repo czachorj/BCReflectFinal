@@ -7,15 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4C0A0710239480D100003C43 /* ExamenMainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0A070F239480D100003C43 /* ExamenMainViewController.swift */; };
+		4C0A07122394814500003C43 /* BibleQuoteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0A07112394814500003C43 /* BibleQuoteViewController.swift */; };
+		4C0A07142394818300003C43 /* MotivationalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0A07132394818300003C43 /* MotivationalViewController.swift */; };
+		4C0A0716239481B900003C43 /* OpportunitiesMainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0A0715239481B900003C43 /* OpportunitiesMainViewController.swift */; };
+		4C0A0718239481FC00003C43 /* OppDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0A0717239481FC00003C43 /* OppDetailViewController.swift */; };
+		4C0A071A2396FDEF00003C43 /* ExamenDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0A07192396FDEF00003C43 /* ExamenDetailViewController.swift */; };
 		4C74485F2392E67700D06150 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C74485E2392E67700D06150 /* AppDelegate.swift */; };
 		4C7448612392E67700D06150 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7448602392E67700D06150 /* SceneDelegate.swift */; };
 		4C7448632392E67700D06150 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7448622392E67700D06150 /* ViewController.swift */; };
 		4C7448662392E67700D06150 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C7448642392E67700D06150 /* Main.storyboard */; };
 		4C7448682392E67900D06150 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C7448672392E67900D06150 /* Assets.xcassets */; };
 		4C74486B2392E67900D06150 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C7448692392E67900D06150 /* LaunchScreen.storyboard */; };
+		4C7448732392E9AA00D06150 /* NavTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7448722392E9AA00D06150 /* NavTableViewController.swift */; };
+		4C7448752393155F00D06150 /* ReadingOTDViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7448742393155F00D06150 /* ReadingOTDViewController.swift */; };
+		D7A41453C8B065B20A5CBBEA /* libPods-BC Reflect.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CD179AE62E9C856CB4EDFA1 /* libPods-BC Reflect.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		01FD30F2E9EE85F14B09202D /* Pods-BC Reflect.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BC Reflect.debug.xcconfig"; path = "Target Support Files/Pods-BC Reflect/Pods-BC Reflect.debug.xcconfig"; sourceTree = "<group>"; };
+		4C0A070F239480D100003C43 /* ExamenMainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExamenMainViewController.swift; sourceTree = "<group>"; };
+		4C0A07112394814500003C43 /* BibleQuoteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BibleQuoteViewController.swift; sourceTree = "<group>"; };
+		4C0A07132394818300003C43 /* MotivationalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotivationalViewController.swift; sourceTree = "<group>"; };
+		4C0A0715239481B900003C43 /* OpportunitiesMainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpportunitiesMainViewController.swift; sourceTree = "<group>"; };
+		4C0A0717239481FC00003C43 /* OppDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OppDetailViewController.swift; sourceTree = "<group>"; };
+		4C0A07192396FDEF00003C43 /* ExamenDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExamenDetailViewController.swift; sourceTree = "<group>"; };
 		4C74485B2392E67700D06150 /* BC Reflect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "BC Reflect.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C74485E2392E67700D06150 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4C7448602392E67700D06150 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +40,10 @@
 		4C7448672392E67900D06150 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4C74486A2392E67900D06150 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4C74486C2392E67900D06150 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4C7448722392E9AA00D06150 /* NavTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavTableViewController.swift; sourceTree = "<group>"; };
+		4C7448742393155F00D06150 /* ReadingOTDViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadingOTDViewController.swift; sourceTree = "<group>"; };
+		4CD179AE62E9C856CB4EDFA1 /* libPods-BC Reflect.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-BC Reflect.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5A71129A4D49F4379A7B3EF3 /* Pods-BC Reflect.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BC Reflect.release.xcconfig"; path = "Target Support Files/Pods-BC Reflect/Pods-BC Reflect.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +51,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D7A41453C8B065B20A5CBBEA /* libPods-BC Reflect.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -42,6 +63,8 @@
 			children = (
 				4C74485D2392E67700D06150 /* BC Reflect */,
 				4C74485C2392E67700D06150 /* Products */,
+				941A3704DB6F7DD07F2955BF /* Pods */,
+				E7ECBD509226EA7032588F5C /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -59,12 +82,37 @@
 				4C74485E2392E67700D06150 /* AppDelegate.swift */,
 				4C7448602392E67700D06150 /* SceneDelegate.swift */,
 				4C7448622392E67700D06150 /* ViewController.swift */,
+				4C7448722392E9AA00D06150 /* NavTableViewController.swift */,
+				4C7448742393155F00D06150 /* ReadingOTDViewController.swift */,
+				4C0A070F239480D100003C43 /* ExamenMainViewController.swift */,
+				4C0A07192396FDEF00003C43 /* ExamenDetailViewController.swift */,
+				4C0A07112394814500003C43 /* BibleQuoteViewController.swift */,
+				4C0A07132394818300003C43 /* MotivationalViewController.swift */,
+				4C0A0715239481B900003C43 /* OpportunitiesMainViewController.swift */,
+				4C0A0717239481FC00003C43 /* OppDetailViewController.swift */,
 				4C7448642392E67700D06150 /* Main.storyboard */,
 				4C7448672392E67900D06150 /* Assets.xcassets */,
 				4C7448692392E67900D06150 /* LaunchScreen.storyboard */,
 				4C74486C2392E67900D06150 /* Info.plist */,
 			);
 			path = "BC Reflect";
+			sourceTree = "<group>";
+		};
+		941A3704DB6F7DD07F2955BF /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				01FD30F2E9EE85F14B09202D /* Pods-BC Reflect.debug.xcconfig */,
+				5A71129A4D49F4379A7B3EF3 /* Pods-BC Reflect.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		E7ECBD509226EA7032588F5C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				4CD179AE62E9C856CB4EDFA1 /* libPods-BC Reflect.a */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -74,6 +122,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4C74486F2392E67900D06150 /* Build configuration list for PBXNativeTarget "BC Reflect" */;
 			buildPhases = (
+				B89810E42F51BC12C3C5D69F /* [CP] Check Pods Manifest.lock */,
 				4C7448572392E67700D06150 /* Sources */,
 				4C7448582392E67700D06150 /* Frameworks */,
 				4C7448592392E67700D06150 /* Resources */,
@@ -133,14 +182,47 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		B89810E42F51BC12C3C5D69F /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-BC Reflect-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		4C7448572392E67700D06150 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4C0A07122394814500003C43 /* BibleQuoteViewController.swift in Sources */,
+				4C7448752393155F00D06150 /* ReadingOTDViewController.swift in Sources */,
+				4C0A07142394818300003C43 /* MotivationalViewController.swift in Sources */,
 				4C7448632392E67700D06150 /* ViewController.swift in Sources */,
+				4C0A0716239481B900003C43 /* OpportunitiesMainViewController.swift in Sources */,
 				4C74485F2392E67700D06150 /* AppDelegate.swift in Sources */,
+				4C0A0710239480D100003C43 /* ExamenMainViewController.swift in Sources */,
+				4C0A071A2396FDEF00003C43 /* ExamenDetailViewController.swift in Sources */,
+				4C0A0718239481FC00003C43 /* OppDetailViewController.swift in Sources */,
 				4C7448612392E67700D06150 /* SceneDelegate.swift in Sources */,
+				4C7448732392E9AA00D06150 /* NavTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -282,6 +364,7 @@
 		};
 		4C7448702392E67900D06150 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 01FD30F2E9EE85F14B09202D /* Pods-BC Reflect.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -300,6 +383,7 @@
 		};
 		4C7448712392E67900D06150 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5A71129A4D49F4379A7B3EF3 /* Pods-BC Reflect.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;

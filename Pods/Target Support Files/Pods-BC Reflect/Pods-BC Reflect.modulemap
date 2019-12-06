@@ -1,0 +1,6 @@
+module Pods_BC_Reflect {
+  umbrella header "Pods-BC Reflect-umbrella.h"
+
+  export *
+  module * { export * }
+}
